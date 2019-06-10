@@ -1,3 +1,5 @@
+'use strict';
+
 var Cloud = {
   x: 100,
   y: 10,
